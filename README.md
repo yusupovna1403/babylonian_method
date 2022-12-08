@@ -18,16 +18,16 @@ Automated grading of homework assignments and tests
 **Example 1:**
 
 ```Python
-Input: 16, 3
-Output: 4
+Input: 16, 4
+Output: 4.0
 
 ```
 
 **Example 2:**
 
 ```Python
-Input: 24, 6
-Output: 5
+Input: 26, 5
+Output: 5.099019607843137
 
 ```
 
